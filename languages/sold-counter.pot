@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCart Sold Counter\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d %s"
+msgstr ""
+
+msgid "Example site:"
+msgstr ""
+
+msgid "Example: sold"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Show on product page"
+msgstr ""
+
+msgid "This plugin requires WooCommerce to be active."
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "You are not allowed to access this page."
+msgstr ""
+
+msgid "units sold"
+msgstr ""
